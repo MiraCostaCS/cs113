@@ -7,17 +7,17 @@ permalink: pretty
 #relative_permalinks: true #removed per https://github.com/poole/lanyon/issues/124#issuecomment-155645090
 
 # Setup
-course: CSX
-title: "full course catalog name"
-description: "course catalog description"
-cor: "COR link"
-logo: "logo link, make sure its in assets folder"
-context: "context info here"
+course: CS113
+title: "Basic Data Structures and Algorithms"
+description: "The course uses topics of personal and social relevance to investigate the impact of computing through efficient algorithms and properly designed data structures. Students explore the software development process by developing effective solutions using industry-standard tools. Topics include searching, sorting, hashing, algorithm analysis, object-oriented design, collections, lists, stacks, queues, trees, sets, dictionaries, and graphs. C-ID COMP-132."
+cor: "https://miracosta.curriqunet.com/DynamicReports/AllFieldsReportByEntity/7192?entityType=Course&reportId=329"
+logo: "/cs113/assets/images/CS2ZTC.png"
+context: "CS113 is part of our CS for Transfer (ADT), Software Development (AA and certificate), and Data Science degrees. It's usually required as a transfer course for a Bachelors in CS, EECS, etc. It's also one of the most important classes for our industry, a lot of interview questions come from this course!"
 
 last-modified-at:
   date-format: "%m-%d-%Y"
 url:
-baseurl: /csX
+baseurl: /cs113
 
 author:
   name: "Nery Chapeton-Lamas"
@@ -30,8 +30,8 @@ paginate: 5
 paginate_path: "page:num" #added per https://github.com/poole/lanyon/issues/124#issuecomment-155645090
 
 # Custom vars
-themecolor: "theme-base-0c"
+themecolor: "theme-base-0b"
 version: 2.1.0
 
 github:
-  repo: https://github.com/MiraCostaCS/CourseTemplate
+  repo: https://github.com/MiraCostaCS/cs113
