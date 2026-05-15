@@ -24,13 +24,13 @@ Below are the materials built in Fall 2024 and Spring 2025:
 - Culturally Relevant Brainstorming, prep discussions highlighting:
   - [Women in STEM](https://docs.google.com/document/d/1bcTzmd2WdbS8A5ofcFr-eXUSzd89pM_959klI0vP5ZU/edit?usp=sharing)
   - [Examining Power, Privilege, and Identity in CS Education](https://docs.google.com/document/d/1JEVO6dTTPPMDDDvod1yFnMb0sbm7zfpmXcpJYYuiJhg/edit?usp=sharing)
-- Labs:
+- Labs + Prep:
   - [Lab #1 - Community Diversity Center Management System](https://github.com/MiraCostaCS/CS113-L1-CommunityDiversityCenterManagementSystem)
   - [Lab #2 - Women in STEM + Array List](https://github.com/MiraCostaCS/CS113-L2-WomenInSTEM)
   - [Lab #3 - Food and Link to Climate Change + SingleLinkedList](https://github.com/MiraCostaCS/CS113-L3-FoodAndLinkToClimateChange)
-  - [Lab #4 - Linked List Music](https://github.com/MiraCostaCS/CS113-L4-LinkedListMusic)
-  - [Lab #5 - BentoBox using a Stack](https://github.com/MiraCostaCS/CS113-L5-BentoBoxStack)
-  - [Lab #6 - Recursive Maze Solving & Diversity in STEM](https://github.com/MiraCostaCS/CS113-L6-RecursiveMazeSolving-DiversityInStem)
+  - [Lab #4 - Linked List Music](https://github.com/MiraCostaCS/CS113-L4-LinkedListMusic) + [Prep Reading and DIscussion](https://docs.google.com/document/d/1xmQP3ZqDItlM1xswEzChdxNiSsAaY1A8s6RTiQ5298g/edit?usp=sharing)
+  - [Lab #5 - BentoBox using a Stack](https://github.com/MiraCostaCS/CS113-L5-BentoBoxStack) + [Prep Reading and Discussion](https://docs.google.com/document/d/1Hj4m9LEbFokDCDWTwkX4oCwQf-su6PC2l_5_37bgRbI/edit?usp=sharing)
+  - [Lab #6 - Recursive Maze Solving & Diversity in STEM](https://github.com/MiraCostaCS/CS113-L6-RecursiveMazeSolving-DiversityInStem) + [Prep Reading and Discussion](https://docs.google.com/document/d/1JEVO6dTTPPMDDDvod1yFnMb0sbm7zfpmXcpJYYuiJhg/edit?usp=sharing)
   - [Lab #7 - Map Navajo](https://github.com/MiraCostaCS/CS113-L7-MapNavajo) _missing README_
   - [Lab #8 - Huffman Code]() _missing repo_
 
